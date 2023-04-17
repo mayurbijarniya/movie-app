@@ -52,7 +52,7 @@ function App() {
     <>
       <Navbar bg="dark" expand="lg" variant="dark">
         <Container fluid>
-          <Navbar.Brand href="/home">Movie App</Navbar.Brand>
+          <Navbar.Brand href="/home">Movie Finder</Navbar.Brand>
           <Navbar.Brand href="/home">Trending</Navbar.Brand>
           <Navbar.Toggle aria-controls="navbarScroll"></Navbar.Toggle>
 
